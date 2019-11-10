@@ -1,0 +1,6 @@
+@media (max-width: 768px) {
+  .box {
+    display: block; }
+  .box__item {
+    width: 100%;
+    margin: 10px; } }
